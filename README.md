@@ -1,7 +1,7 @@
 ## The basis for this midterm project was a remake of the popular old Tetris game
 <img src="https://play-lh.googleusercontent.com/seTihW5fk15UQkhwqls5WUL1EVdW8Ji1ovcyxwzMIu5bet2EzCP7-EIJJzlpv-BdMVM" alt="drawing" width="200"/>
 
-### This is how my Windows Form looks like
+### Players attempt to clear as many lines as possible by completing horizontal rows of blocks without empty space, but if the Tetriminos surpass the Skyline the game is over! It might sound simple, but strategy and speed can go a long way! Form shows the amount of scores earned by player, game counts the spend time, passed Level etc. This game also allows player to rotate blocks or accelerate the speed that blocks. Also at the bottom, player might see possible position of block as a hint. Enjoy the game This is how my Windows Form looks like
 <img src="https://imgur.com/W0cPl06.jpg" alt="drawing" width="400"/>
 
-## Players attempt to clear as many lines as possible by completing horizontal rows of blocks without empty space, but if the Tetriminos surpass the Skyline the game is over! It might sound simple, but strategy and speed can go a long way! Form shows the amount of scores earned by player, game counts the spend time, passed Level etc. This game also allows player to rotate blocks or accelerate the speed that blocks. Also at the bottom, player might see possible position of block as a hint. Enjoy the game
+## 
