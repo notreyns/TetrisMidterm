@@ -5,6 +5,6 @@
 <img src="https://imgur.com/W0cPl06.jpg" alt="drawing" width="400"/>
 
 ## TextReviews
-<img src="https://imgur.com/WpyrmXy.jpg" alt="drawing" width="400"/>
+<img src="https://imgur.com/WpyrmXy.jpg" alt="drawing" width="550"/>
 
 
