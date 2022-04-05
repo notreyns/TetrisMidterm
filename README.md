@@ -8,7 +8,7 @@
 <img src="https://imgur.com/WpyrmXy.jpg" alt="drawing" width="550"/>
 
 ## VideoReview
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/QmQH6W17rx0)
+[![Watch the video](https://imgur.com/3pHUdTh.png)](https://youtu.be/QmQH6W17rx0)
 
 
 
