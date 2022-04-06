@@ -6,6 +6,9 @@
 
 ## TextReviews
 <img src="https://imgur.com/WpyrmXy.jpg" alt="drawing" width="550"/>
+<img src="https://imgur.com/NYiWdd0.jpg" alt="drawing" width="550"/>
+
+
 
 ## VideoReview
 [![Watch the video](https://imgur.com/3pHUdTh.png)](https://youtu.be/QmQH6W17rx0)
